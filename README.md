@@ -24,7 +24,7 @@
 
 
 ### Note:
-Github is not a place to test your code. We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, using the instructions you received in the lab sessions, and then copy the finished code to github. Do not exceed 15 commits or your grades will be penalized.
+Github is not a place to test your code. We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly, using the instructions you received in the lab sessions and then copy the finished code to github. Do not exceed 15 commits or your grades will be penalized.
 
 If your code did not pass, revise your code and submit(commit) your changes again.
 
