@@ -2,8 +2,7 @@
 Objective of Week 4 Lab assignment
 
 1. Practice using if else for one problem.
-2. Practice using switch case break for the other.
-3. And anything else that was covered in the class so far.
+2. And anything else that was covered in the class so far.
 
 Write a C program that determines a candidate's eligibility for admission to an advanced course based on the following criteria:
 
@@ -25,5 +24,13 @@ NOTE:
 1. Read input **only** in the following order: physics, chemistry, math.
 2. Output should **exactly** say either "The candidate is eligible for admission." or "The candidate is not eligible for admission."
 3. Input should be of type integer only.
-4. If you used if/else statements for the prob1, use switch/case statements for prob2.
 */
+
+#include <stdio.h>
+int main()
+{
+
+
+  return 0;
+}
+
